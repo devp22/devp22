@@ -3,6 +3,7 @@
 - 🏢 Full-Time Software Engineer | The Raymond Corporation
 - 🏫 Part-Time MS in Computer Science | Georgia Institute of Technology
 - 📫 How to reach me: pdev2095@gmail.com
+- 📟 Interests: Military Technologies and Defense Systems
 
 ## Things I code with
 
@@ -13,6 +14,11 @@
 #### ⛈️ Databases
 
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+
+### 🖼️ Frameworks
+
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#) [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
 #### ☁️ Cloud Systems
 
