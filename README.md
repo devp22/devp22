@@ -3,7 +3,7 @@
 - 🏢 Full-Time Software Engineer | The Raymond Corporation
 - 🏫 Part-Time MS in Computer Science | Georgia Institute of Technology
 - 📫 How to reach me: pdev2095@gmail.com
-- 📟 Interests: Military Technologies and Defense Systems
+- 📟 Interests: Integrating AI with Defense Systems
 
 ## Things I code with
 
